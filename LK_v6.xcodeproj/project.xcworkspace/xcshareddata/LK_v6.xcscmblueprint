@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "25D245B2EF7D172553824A93CC82265C88536CF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EAEB55AED9BA266FFE30A8F222E32A2B6E6F5739" : 9223372036854775807,
+    "25D245B2EF7D172553824A93CC82265C88536CF4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "973882A0-B810-4D61-AF63-EF5B302FFA03",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EAEB55AED9BA266FFE30A8F222E32A2B6E6F5739" : "ios-driving-assitant\/bitplanes\/",
+    "25D245B2EF7D172553824A93CC82265C88536CF4" : "ios-driving-assitant\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LK_v6",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LK_v6.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/siddhantwadhwa\/ios-driving-assitant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25D245B2EF7D172553824A93CC82265C88536CF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/halismai\/bitplanes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EAEB55AED9BA266FFE30A8F222E32A2B6E6F5739"
+    }
+  ]
+}
